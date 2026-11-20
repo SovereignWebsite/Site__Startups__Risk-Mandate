@@ -1,6 +1,6 @@
 # RiskMandate
 
-> A brochure for RiskMandate, with links to its own site.
+> An independent brochure about RiskMandate, which writes Agent Behaviour Policies for AI agents: what each can reach, what you authorised, and the gap, made from its own public pages.
 
 This file is for AI agents and the people using them. The site is https://risk-mandate.startups.sovereignweb.site/, static files in the public repository https://github.com/SovereignWebsite/Site__Startups__Risk-Mandate (served from site/ on the dev branch). Pick the section that matches who you are acting for, read it in full, then follow it.
 
@@ -23,3 +23,30 @@ This file is for AI agents and the people using them. The site is https://risk-m
 - Start here (for the owner): https://risk-mandate.startups.sovereignweb.site/start/
 - How this site was made: https://risk-mandate.startups.sovereignweb.site/admin/
 - The agents that work on this site: https://risk-mandate.startups.sovereignweb.site/data/agents.json
+
+An independent brochure about RiskMandate, made from its own public pages. Official site: https://riskmandate.ai/
+
+## Pages
+
+- [The Brochure](https://risk-mandate.startups.sovereignweb.site/index.html): The company at a glance, with diagrams
+- [The Blueprint](https://risk-mandate.startups.sovereignweb.site/designs/blueprint.html): A dark technical spec sheet
+- [The Story](https://risk-mandate.startups.sovereignweb.site/designs/story.html): Told in order, date by date
+- [The Newsroom](https://risk-mandate.startups.sovereignweb.site/designs/newsroom.html): A magazine feature about the company
+- [The Brief](https://risk-mandate.startups.sovereignweb.site/designs/brief.html): Plain and printable on A4
+
+## Sources
+
+- RiskMandate, brand: https://riskmandate.ai/brand.html (read 2026-11-20)
+- RiskMandate, the Agent Behaviour Policy: https://riskmandate.ai/abp.html (read 2026-11-20)
+- RiskMandate, how it works: https://riskmandate.ai/how-it-works.html (read 2026-11-20)
+- RiskMandate, insurance: https://riskmandate.ai/insurance.html (read 2026-11-20)
+- RiskMandate, partners: https://riskmandate.ai/partners.html (read 2026-11-20)
+- RiskMandate, Startup Summit: https://riskmandate.ai/summit.html (read 2026-11-20)
+- RiskMandate, versions: https://riskmandate.ai/versions.md (read 2026-11-20)
+- RiskMandate, about: https://riskmandate.ai/about.html (read 2026-11-20)
+- RiskMandate, SHarness: https://riskmandate.ai/secure-harness.html (read 2026-11-20)
+- RiskMandate, home page: https://riskmandate.ai/ (read 2026-11-20)
+- RiskMandate, pricing: https://riskmandate.ai/pricing.html (read 2026-11-20)
+- RiskMandate, Licence to Operate: https://riskmandate.ai/licence-to-operate.html (read 2026-11-20)
+- RiskMandate, customers site: https://customers.riskmandate.ai/ (read 2026-11-20)
+- RiskMandate, newsroom: https://riskmandate.ai/newsroom.html (read 2026-11-20)

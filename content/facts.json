@@ -1,0 +1,99 @@
+{
+  "slug": "risk-mandate",
+  "name": "RiskMandate",
+  "mark": "RM",
+  "kicker": "The insurability layer for agentic AI",
+  "domain": "risk-mandate.startups.sovereignweb.site",
+  "url": "https://riskmandate.ai/",
+  "url_label": "riskmandate.ai",
+  "repo": "https://github.com/SovereignWebsite/Site__Startups__Risk-Mandate",
+  "updated": "2026-11-20",
+  "home": "brochure",
+  "description": "An independent brochure about RiskMandate, which writes Agent Behaviour Policies for AI agents: what each can reach, what you authorised, and the gap, made from its own public pages.",
+  "headline": "What your AI agent can do, against what you allowed it to do",
+  "lede": "RiskMandate writes an Agent Behaviour Policy for each AI agent you run: everything it can actually reach, what you authorised it to do, the gap between the two, and what really stands in the way.",
+  "quote": {"q": "RiskMandate creates and sells Agent Behaviour Policies: for one agent in one deployment, what it can actually reach, what you authorised it to do, and the gap nobody has looked at.", "who": "RiskMandate's own one-line description", "s": [1]},
+  "what": [
+    {"t": "The product is the Agent Behaviour Policy, or ABP: a written record, for one agent in one deployment, of what the agent can do, what it was authorised to do, the gap between them, and the barrier on each.", "s": [2]},
+    {"t": "The ABP \"describes and it does not judge, so it carries no score.\" It is read-only and never sits in the agent's request path; enforcement, when wanted, runs on the customer's side.", "s": [2, 3]},
+    {"t": "Its stated direction is insurability: from a behaviour policy, to a Licence to Operate, to an agent that can be insured. The company says plainly that the later steps are templates and designs, and \"No insurer has agreed to anything on this page.\"", "s": [4]},
+    {"t": "It sits beside security vendors rather than against them: \"We don't detect. We don't remediate. We make the business own the risk.\"", "s": [5]}
+  ],
+  "story": [
+    {"t": "RiskMandate starts from a gap: an AI agent is given access to a repository, a mailbox or a cloud account, and what it can reach is far more than what anyone meant it to do.", "s": [6, 2]},
+    {"t": "Its site began on 29 June 2026 and became its own repository with version 1.0.0 on 11 September. A week later the company exhibited at Startup Summit in Lisbon, on 17 and 18 September.", "s": [7, 6]},
+    {"t": "In October it published its investor deck under CC BY 4.0 and, on 29 October, introduced SHarness, an open-source harness that has the Linux kernel enforce a policy.", "s": [8, 9]},
+    {"t": "At Web Summit in Lisbon in November 2026 it ran its own team of agents on the stand, most with their own behaviour policy. On 10 November the circuit showed 109 agents, 94 of them with a written policy.", "s": [10]},
+    {"t": "The company is candid about where it is. Early trading runs through The Cyber Boardroom, a UK company, and \"a company for RiskMandate alone, between the two founders, is being set up.\" No customer is named.", "s": [8, 10]}
+  ],
+  "for_whom": [
+    {"t": "Anyone who runs AI agents, from one agent to hundreds.", "s": [10]},
+    {"t": "People who gave an assistant access to a repository, a mailbox or a cloud account.", "s": [6]},
+    {"t": "Investors with a portfolio, and companies that will be diligenced.", "s": [6]},
+    {"t": "Underwriters, risk committees and boards, the audiences the brand is meant to speak to.", "s": [1]}
+  ],
+  "how": [
+    {"title": "The mandate", "t": "What you authorised the agent to do, drawn out of you.", "s": [2]},
+    {"title": "The grant", "t": "What the agent can actually reach, measured from the deployment.", "s": [2]},
+    {"title": "The delta", "t": "The difference between the two, derived and never edited.", "s": [2]},
+    {"title": "The barrier", "t": "What stands in the way, per capability: none, an expectation, a setting or a boundary. Only a boundary counts as a control.", "s": [2]}
+  ],
+  "products": [
+    {"name": "Agent Behaviour Policy", "short": "ABP", "url": "https://riskmandate.ai/abp.html", "t": "The record for one agent in one deployment: reach, mandate, gap and barrier.", "s": [2, 8]},
+    {"name": "ABP library", "short": "Library", "url": "https://riskmandate.ai/pricing.html", "t": "16 template policies published free, for tools such as Claude Code, GitHub Actions and the Microsoft 365 connector.", "s": [11]},
+    {"name": "SHarness", "short": "SHarness", "url": "https://riskmandate.ai/secure-harness.html", "t": "An open-source secure harness, Apache-2.0, that turns a policy into one the Linux kernel holds. The site says it is partly running.", "s": [9]},
+    {"name": "Licence to Operate", "short": "Licence", "url": "https://riskmandate.ai/licence-to-operate.html", "t": "A template in every published vault; not yet issued.", "s": [12]},
+    {"name": "Insurability Index", "short": "Index", "url": "https://riskmandate.ai/insurance.html", "t": "A 0 to 100 score across five dimensions; a design, not yet a product.", "s": [4]},
+    {"name": "Customers site", "short": "Customers", "url": "https://customers.riskmandate.ai/", "t": "\"Put a behaviour policy on your agent, in five minutes\", with six examples for Claude or ChatGPT.", "s": [13]}
+  ],
+  "timeline": [
+    {"date": "2026-06-29", "label": "The site's baseline, version 0.1.0.", "s": [7]},
+    {"date": "2026-09-11", "label": "Version 1.0.0: the site becomes the repository.", "s": [7]},
+    {"date": "2026-09-17", "label": "Exhibits at Startup Summit, Unicorn Factory Lisboa, 17 and 18 September.", "s": [6]},
+    {"date": "2026-10-02", "label": "Investor deck published under CC BY 4.0.", "s": [8]},
+    {"date": "2026-10-21", "label": "LinkedIn company page goes up.", "s": [14]},
+    {"date": "2026-10-29", "label": "SHarness introduced.", "s": [14]},
+    {"date": "2026-11-10", "label": "Web Summit stand: 109 agents on the circuit, 94 with a written policy.", "s": [10]},
+    {"date": "2026-11-17", "label": "Price levels of £5,000 and £20,000 offered; two smaller ones retired.", "s": [11]}
+  ],
+  "figures": [
+    {"value": "109", "label": "agents on the Web Summit circuit, 94 with a written policy", "asof": "2026-11-10", "s": [10]},
+    {"value": "2,262", "label": "agent runs, 6 to 16 November, each reported against its policy", "asof": "2026-11-16", "s": [10]},
+    {"value": "16", "label": "template policies published free", "asof": "2026-11-19", "s": [11]},
+    {"value": "£500", "label": "the first published level, for one agent; every way in starts with a conversation and nothing has been sold", "asof": "2026-11-17", "s": [11]}
+  ],
+  "chart": {
+    "title": "Attacks held, out of 12",
+    "note": "The company's own test, published on its home page: a rule written in the prompt, against the same rule with a hook outside the model. The company says nobody outside the team has checked its counts.",
+    "s": [10],
+    "bars": [{"label": "Prompt line", "value": 3}, {"label": "Line + hook", "value": 12}]
+  },
+  "people": [
+    {"name": "Nimay Parekh", "role": "co-founder and chief executive, who \"Built cyber-insurance and supply-chain risk products at SecurityScorecard\"", "s": [8]},
+    {"name": "Dinis Cruz", "role": "co-founder, \"Long-time application-security and OWASP leader\"", "s": [8]}
+  ],
+  "visit": "The free template policies, the prompts and every figure's evidence are on the company's own site.",
+  "newsroom": {
+    "kicker": "Startup profile",
+    "headline": "The gap between what an agent can do and what you allowed",
+    "standfirst": "RiskMandate writes down, for every AI agent, what it can reach, what it was authorised to do, and what really stops it. The aim is agents a business can own, and one day insure."
+  },
+  "brand": {"accent": "#1a7f5a", "accent_dark": "#5fd3a3", "soft": "#e3f0ea", "soft_dark": "#12251d"},
+  "images_note": "No images from the company are used: the summit photographs show identifiable people, and the logo carries usage rules but no licence. Every diagram and the favicon here were drawn for this site.",
+  "sources": [
+    {"id": 1, "title": "RiskMandate, brand", "url": "https://riskmandate.ai/brand.html", "accessed": "2026-11-20"},
+    {"id": 2, "title": "RiskMandate, the Agent Behaviour Policy", "url": "https://riskmandate.ai/abp.html", "accessed": "2026-11-20"},
+    {"id": 3, "title": "RiskMandate, how it works", "url": "https://riskmandate.ai/how-it-works.html", "accessed": "2026-11-20"},
+    {"id": 4, "title": "RiskMandate, insurance", "url": "https://riskmandate.ai/insurance.html", "accessed": "2026-11-20"},
+    {"id": 5, "title": "RiskMandate, partners", "url": "https://riskmandate.ai/partners.html", "accessed": "2026-11-20"},
+    {"id": 6, "title": "RiskMandate, Startup Summit", "url": "https://riskmandate.ai/summit.html", "accessed": "2026-11-20"},
+    {"id": 7, "title": "RiskMandate, versions", "url": "https://riskmandate.ai/versions.md", "accessed": "2026-11-20"},
+    {"id": 8, "title": "RiskMandate, about", "url": "https://riskmandate.ai/about.html", "accessed": "2026-11-20"},
+    {"id": 9, "title": "RiskMandate, SHarness", "url": "https://riskmandate.ai/secure-harness.html", "accessed": "2026-11-20"},
+    {"id": 10, "title": "RiskMandate, home page", "url": "https://riskmandate.ai/", "accessed": "2026-11-20"},
+    {"id": 11, "title": "RiskMandate, pricing", "url": "https://riskmandate.ai/pricing.html", "accessed": "2026-11-20"},
+    {"id": 12, "title": "RiskMandate, Licence to Operate", "url": "https://riskmandate.ai/licence-to-operate.html", "accessed": "2026-11-20"},
+    {"id": 13, "title": "RiskMandate, customers site", "url": "https://customers.riskmandate.ai/", "accessed": "2026-11-20"},
+    {"id": 14, "title": "RiskMandate, newsroom", "url": "https://riskmandate.ai/newsroom.html", "accessed": "2026-11-20"}
+  ]
+}
