@@ -21,4 +21,4 @@ Every fact on this site comes from these public pages. This file is written by t
 
 ## Images
 
-No images from the company are used: the summit photographs show identifiable people, and the logo carries usage rules but no licence. Every diagram and the favicon here were drawn for this site.
+Used with Dinis Cruz's agreement (20 November 2026, relayed by sites.b): these are his own companies, so their published brand assets may be used. Logo: from https://riskmandate.ai/brand.html. Screenshots of the company's live site, taken by startups.b with Playwright on 20 November 2026 and linked to the page each shows: https://riskmandate.ai/; https://riskmandate.ai/abp.html; https://riskmandate.ai/pricing.html. Every diagram, the favicon and the share card were drawn for this site.
