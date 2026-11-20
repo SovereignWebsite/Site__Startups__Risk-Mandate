@@ -8,7 +8,7 @@
  "url_label": "riskmandate.ai",
  "repo": "https://github.com/SovereignWebsite/Site__Startups__Risk-Mandate",
  "updated": "2026-11-20",
- "home": "brochure",
+ "home": "gap",
  "description": "An independent brochure about RiskMandate, which writes Agent Behaviour Policies for AI agents: what each can reach, what you authorised, and the gap, made from its own public pages.",
  "headline": "What your AI agent can do, against what you allowed it to do",
  "lede": "RiskMandate writes an Agent Behaviour Policy for each AI agent you run: everything it can actually reach, what you authorised it to do, the gap between the two, and what really stands in the way.",
@@ -420,6 +420,12 @@
    "title": "RiskMandate, newsroom",
    "url": "https://riskmandate.ai/newsroom.html",
    "accessed": "2026-11-20"
+  },
+  {
+   "id": 15,
+   "title": "RiskMandate, the example Agent Behaviour Policies",
+   "url": "https://riskmandate.ai/agent-behaviour-policy.html",
+   "accessed": "2026-11-20"
   }
  ],
  "identity": {
@@ -444,7 +450,298 @@
     "file": "img/real/pricing.webp",
     "url": "https://riskmandate.ai/pricing.html",
     "caption": "The four ways in, on riskmandate.ai's pricing page"
+   },
+   {
+    "file": "img/real/examples.webp",
+    "url": "https://riskmandate.ai/agent-behaviour-policy.html",
+    "caption": "The sixteen example Agent Behaviour Policies, on riskmandate.ai"
    }
   ]
- }
+ },
+ "next": [
+  {
+   "label": "See sixteen free examples",
+   "url": "https://riskmandate.ai/agent-behaviour-policy.html"
+  },
+  {
+   "label": "Talk to us about your agents",
+   "url": "https://riskmandate.ai/contact.html"
+  }
+ ],
+ "designs": [
+  {
+   "key": "gap",
+   "name": "The Gap",
+   "blurb": "Reach, mandate and the delta, drawn large",
+   "engine": "gap",
+   "cfg": {
+    "h1": "What it can reach. What you allowed. <em>The gap.</em>"
+   }
+  },
+  {
+   "key": "policy",
+   "name": "The Policy",
+   "blurb": "The page as an Agent Behaviour Policy form",
+   "engine": "paper",
+   "cfg": {
+    "palette": {
+     "light": {
+      "bg": "#efede7",
+      "card": "#fff",
+      "fg": "#1a1917",
+      "muted": "#4a4845",
+      "line": "#e2dfd8",
+      "link": "#1a7f5a",
+      "acc": "#1a7f5a",
+      "acc-ink": "#fff"
+     },
+     "dark": {
+      "bg": "#0d0d0c",
+      "card": "#161615",
+      "fg": "#f7f6f2",
+      "muted": "#b8b5ae",
+      "line": "#2b2a27",
+      "link": "#22c55e",
+      "acc": "#22c55e",
+      "acc-ink": "#0d0d0c"
+     }
+    },
+    "stamp": "ABP form",
+    "kick": "Agent Behaviour Policy: the fields",
+    "h1": "What an ABP records, for one agent in one deployment",
+    "fields": [
+     [
+      "Issued by",
+      "RiskMandate, riskmandate.ai"
+     ],
+     [
+      "Form",
+      "Agent Behaviour Policy"
+     ],
+     [
+      "Read",
+      "20 November 2026"
+     ],
+     [
+      "Library",
+      "16 free example policies"
+     ]
+    ],
+    "items": [
+     {
+      "title": "The fields",
+      "kind": "form",
+      "rows": [
+       [
+        "Scope",
+        "One agent in one deployment",
+        [
+         2
+        ]
+       ],
+       [
+        "Mandate",
+        "What you authorised the agent to do, drawn out of you.",
+        [
+         2
+        ]
+       ],
+       [
+        "Grant",
+        "What the agent can actually reach, measured from the deployment.",
+        [
+         2
+        ]
+       ],
+       [
+        "Delta",
+        "The difference between the two, derived and never edited.",
+        [
+         2
+        ]
+       ],
+       [
+        "Barrier",
+        "What stands in the way, per capability: none, an expectation, a setting or a boundary. Only a boundary counts as a control.",
+        [
+         2
+        ]
+       ],
+       [
+        "Score",
+        "None: it \"describes and it does not judge, so it carries no score.\"",
+        [
+         2
+        ]
+       ]
+      ],
+      "short": "Fields"
+     },
+     {
+      "title": "The library, on the real site",
+      "kind": "shot",
+      "shot": 3,
+      "short": "Library"
+     },
+     {
+      "title": "What it is",
+      "kind": "what",
+      "short": "What it is"
+     },
+     {
+      "title": "The products",
+      "kind": "products"
+     },
+     {
+      "title": "Measured on its own team",
+      "kind": "figures+chart"
+     },
+     {
+      "title": "History",
+      "kind": "timeline"
+     }
+    ],
+    "sig": "This form shows the fields an ABP carries, drawn from riskmandate.ai. The example policies themselves are on the real site."
+   }
+  },
+  {
+   "key": "riskmandate",
+   "name": "Identity: RiskMandate",
+   "blurb": "Near-black, green, the seal, its own counted figures",
+   "engine": "identity",
+   "cfg": {
+    "palette": {
+     "light": {
+      "bg": "#f7f6f2",
+      "card": "#ffffff",
+      "fg": "#1a1917",
+      "muted": "#4a4845",
+      "line": "#e2dfd8",
+      "link": "#1a7f5a",
+      "acc": "#1a7f5a",
+      "acc-ink": "#fff",
+      "herobg": "#0d0d0c",
+      "heroink": "#f7f6f2",
+      "heroacc": "#22c55e",
+      "heroacc-ink": "#0d0d0c"
+     },
+     "dark": {
+      "bg": "#0d0d0c",
+      "card": "#161615",
+      "fg": "#f7f6f2",
+      "muted": "#b8b5ae",
+      "line": "#2b2a27",
+      "link": "#22c55e",
+      "acc": "#22c55e",
+      "acc-ink": "#0d0d0c",
+      "herobg": "#050505",
+      "heroink": "#f7f6f2",
+      "heroacc": "#22c55e",
+      "heroacc-ink": "#0d0d0c"
+     }
+    },
+    "h1_font": "800 clamp(2.6rem,7vw,4.8rem)/1.02 ui-sans-serif,system-ui,sans-serif",
+    "num_font": "ui-monospace,\"SF Mono\",Menlo,monospace",
+    "h1": "We can control <em>your agents.</em>",
+    "h1_s": [
+     10
+    ],
+    "sub": "\"If you run AI agents, we can tell you what each one can actually do, write down what you authorised it to do, and put something in the way of the difference.\"",
+    "hero": "shot",
+    "shot": 0,
+    "cards_title": "Its own counts, from riskmandate.ai",
+    "cards": [
+     {
+      "n": "191",
+      "l": "behaviour policies written for its own agents and published on three sites",
+      "s": [
+       10
+      ],
+      "when": "as on riskmandate.ai, read 20 November 2026 (counted 16 November)"
+     },
+     {
+      "n": "2,262",
+      "l": "agent runs, each with a report against its ABP",
+      "s": [
+       10
+      ],
+      "when": "as on riskmandate.ai, read 20 November 2026 (runs 6 to 16 November)"
+     },
+     {
+      "n": "2,980",
+      "l": "actions logged as outside an agent's grant: seen, recorded, allowed",
+      "s": [
+       10
+      ],
+      "when": "as on riskmandate.ai, read 20 November 2026"
+     },
+     {
+      "n": "1",
+      "l": "rule that failed and became a barrier the agent cannot remove",
+      "s": [
+       10
+      ],
+      "when": "as on riskmandate.ai, read 20 November 2026 (2 to 6 November)"
+     }
+    ]
+   }
+  },
+  {
+   "key": "examples",
+   "name": "Identity: sixteen examples",
+   "blurb": "Built round its free example policies",
+   "engine": "identity",
+   "cfg": {
+    "palette": {
+     "light": {
+      "bg": "#f7f6f2",
+      "card": "#ffffff",
+      "fg": "#1a1917",
+      "muted": "#4a4845",
+      "line": "#e2dfd8",
+      "link": "#1a7f5a",
+      "acc": "#1a7f5a",
+      "acc-ink": "#fff",
+      "herobg": "#0d0d0c",
+      "heroink": "#f7f6f2",
+      "heroacc": "#22c55e",
+      "heroacc-ink": "#0d0d0c"
+     },
+     "dark": {
+      "bg": "#0d0d0c",
+      "card": "#161615",
+      "fg": "#f7f6f2",
+      "muted": "#b8b5ae",
+      "line": "#2b2a27",
+      "link": "#22c55e",
+      "acc": "#22c55e",
+      "acc-ink": "#0d0d0c",
+      "herobg": "#050505",
+      "heroink": "#f7f6f2",
+      "heroacc": "#22c55e",
+      "heroacc-ink": "#0d0d0c"
+     }
+    },
+    "h1_font": "800 clamp(2.4rem,6.5vw,4.4rem)/1.04 ui-sans-serif,system-ui,sans-serif",
+    "h1": "Agent Behaviour Policies, <em>as building blocks.</em>",
+    "h1_s": [
+     15
+    ],
+    "sub": "\"An Agent Behaviour Policy describes one AI agent in one deployment: everything it can do (the grant), what you actually authorised (the mandate), the gap between the two (the delta), and what really stands in the way of each thing (the barrier).\"",
+    "hero": "shot",
+    "shot": 3,
+    "strip_below": [
+     1,
+     2
+    ],
+    "strip_title": "More of riskmandate.ai"
+   }
+  },
+  {
+   "key": "newsroom",
+   "name": "The Newsroom",
+   "blurb": "A newsroom feature, printable on A4",
+   "engine": "newsroom"
+  }
+ ]
 }

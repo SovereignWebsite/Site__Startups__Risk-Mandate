@@ -28,11 +28,11 @@ An independent brochure about RiskMandate, made from its own public pages. Offic
 
 ## Pages
 
-- [The Brochure](https://risk-mandate.startups.sovereignweb.site/index.html): The company at a glance, with diagrams
-- [The Blueprint](https://risk-mandate.startups.sovereignweb.site/designs/blueprint.html): A dark technical spec sheet
-- [The Story](https://risk-mandate.startups.sovereignweb.site/designs/story.html): Told in order, date by date
-- [The Newsroom](https://risk-mandate.startups.sovereignweb.site/designs/newsroom.html): A magazine feature about the company
-- [The Brief](https://risk-mandate.startups.sovereignweb.site/designs/brief.html): Plain and printable on A4
+- [The Gap](https://risk-mandate.startups.sovereignweb.site/index.html): Reach, mandate and the delta, drawn large
+- [The Policy](https://risk-mandate.startups.sovereignweb.site/designs/policy.html): The page as an Agent Behaviour Policy form
+- [Identity: RiskMandate](https://risk-mandate.startups.sovereignweb.site/designs/riskmandate.html): Near-black, green, the seal, its own counted figures
+- [Identity: sixteen examples](https://risk-mandate.startups.sovereignweb.site/designs/examples.html): Built round its free example policies
+- [The Newsroom](https://risk-mandate.startups.sovereignweb.site/designs/newsroom.html): A newsroom feature, printable on A4
 
 ## Sources
 
@@ -50,3 +50,4 @@ An independent brochure about RiskMandate, made from its own public pages. Offic
 - RiskMandate, Licence to Operate: https://riskmandate.ai/licence-to-operate.html (read 2026-11-20)
 - RiskMandate, customers site: https://customers.riskmandate.ai/ (read 2026-11-20)
 - RiskMandate, newsroom: https://riskmandate.ai/newsroom.html (read 2026-11-20)
+- RiskMandate, the example Agent Behaviour Policies: https://riskmandate.ai/agent-behaviour-policy.html (read 2026-11-20)
