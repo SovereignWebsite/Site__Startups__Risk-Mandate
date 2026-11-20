@@ -51,3 +51,4 @@ An independent brochure about RiskMandate, made from its own public pages. Offic
 - RiskMandate, customers site: https://customers.riskmandate.ai/ (read 2026-11-20)
 - RiskMandate, newsroom: https://riskmandate.ai/newsroom.html (read 2026-11-20)
 - RiskMandate, the example Agent Behaviour Policies: https://riskmandate.ai/agent-behaviour-policy.html (read 2026-11-20)
+- RiskMandate, example policy: Claude Code on your machine: https://riskmandate.ai/abp-vault-claude-code-cli.html (read 2026-11-20)

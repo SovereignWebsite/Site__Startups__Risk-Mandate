@@ -103,6 +103,10 @@ sup.cites a:hover{text-decoration:underline}
 
 .top .family-credit{position:relative;top:auto;right:auto;font-size:.8rem;margin-left:auto}
 .top .family-credit ul{min-width:14rem}
+.top .family-credit summary{font-size:1.3rem;line-height:1;padding:.2rem .5rem;opacity:.85}
+.top .family-credit summary::after{content:none}
+.family-credit .family-head{padding:.3rem .8rem .2rem;font-weight:700;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--fam-fg)}
+.top .wm-sw .ag{display:none}
 .top .family-credit ul{display:block;right:0}
 .top .family-credit li a{color:var(--fam-fg);display:block;padding:.3rem .8rem;text-decoration:none}
 .top .family-credit li a:hover{text-decoration:none;color:var(--fam-strong)}
@@ -146,8 +150,8 @@ pre,blockquote{background:var(--card);border:1px solid var(--line);border-radius
 <body class="d-agents">
 <a class="skip" href="#main">Skip to content</a>
 <header class="top"><nav class="top-row" aria-label="RiskMandate"><a class="brand" href="../index.html"><span class="logo"><picture><source srcset="../img/brand/lockup-dark.svg" media="(prefers-color-scheme: dark)"><img src="../img/brand/lockup-light.svg" width="320" height="64" alt="RiskMandate"></picture></span><small>The insurability layer for agentic AI</small></a><ul><li><a href="/start/">Start here</a></li><li><a href="/admin/">How this site was made</a></li><li><a href="/">Home</a></li><li><a class="visit" href="https://riskmandate.ai/">Visit riskmandate.ai &#8599;</a></li></ul><details class="pick"><summary>Choose a design</summary><div class="pick-cards"><p class="sr">The same facts in five designs.</p><ul><li><a href="../index.html"><img src="../img/designs/gap.webp" width="640" height="400" alt="" loading="lazy" decoding="async"><strong>The Gap</strong><span>Reach, mandate and the delta, drawn large</span></a></li><li><a href="../designs/policy.html"><img src="../img/designs/policy.webp" width="640" height="400" alt="" loading="lazy" decoding="async"><strong>The Policy</strong><span>The page as an Agent Behaviour Policy form</span></a></li><li><a href="../designs/riskmandate.html"><img src="../img/designs/riskmandate.webp" width="640" height="400" alt="" loading="lazy" decoding="async"><strong>Identity: RiskMandate</strong><span>Near-black, green, the seal, its own counted figures</span></a></li><li><a href="../designs/examples.html"><img src="../img/designs/examples.webp" width="640" height="400" alt="" loading="lazy" decoding="async"><strong>Identity: sixteen examples</strong><span>Built round its free example policies</span></a></li><li><a href="../designs/newsroom.html"><img src="../img/designs/newsroom.webp" width="640" height="400" alt="" loading="lazy" decoding="async"><strong>The Newsroom</strong><span>A newsroom feature, printable on A4</span></a></li></ul><p class="all"><a href="../designs/index.html">All designs</a> &middot; the home page uses The Gap.</p></div></details><details class="family-credit">
-  <summary>Sovereign Website</summary>
-  <ul>
+  <summary aria-label="Made with Sovereign Website: menu">&#8942;</summary>
+  <ul><li class="family-head">Made with Sovereign Website</li>
     <li><a href="/start/">Start here</a></li>
     <li><a href="/agents/">Use with your AI</a></li>
     <li class="family-gap"><a href="/admin/">How this site was made</a></li>

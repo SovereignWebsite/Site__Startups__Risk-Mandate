@@ -19,6 +19,7 @@ Every fact on this site comes from these public pages. This file is written by t
 | 13 | [RiskMandate, customers site](https://customers.riskmandate.ai/) | 2026-11-20 |
 | 14 | [RiskMandate, newsroom](https://riskmandate.ai/newsroom.html) | 2026-11-20 |
 | 15 | [RiskMandate, the example Agent Behaviour Policies](https://riskmandate.ai/agent-behaviour-policy.html) | 2026-11-20 |
+| 16 | [RiskMandate, example policy: Claude Code on your machine](https://riskmandate.ai/abp-vault-claude-code-cli.html) | 2026-11-20 |
 
 ## Images
 

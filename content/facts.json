@@ -426,6 +426,12 @@
    "title": "RiskMandate, the example Agent Behaviour Policies",
    "url": "https://riskmandate.ai/agent-behaviour-policy.html",
    "accessed": "2026-11-20"
+  },
+  {
+   "id": 16,
+   "title": "RiskMandate, example policy: Claude Code on your machine",
+   "url": "https://riskmandate.ai/abp-vault-claude-code-cli.html",
+   "accessed": "2026-11-20"
   }
  ],
  "identity": {
@@ -439,22 +445,34 @@
    {
     "file": "img/real/home.webp",
     "url": "https://riskmandate.ai/",
-    "caption": "The riskmandate.ai home page: We can control your agents"
+    "caption": "The riskmandate.ai home page: We can control your agents",
+    "phone": "img/real/home-phone.webp",
+    "phone_w": 760,
+    "phone_h": 500
    },
    {
     "file": "img/real/abp.webp",
     "url": "https://riskmandate.ai/abp.html",
-    "caption": "The Agent Behaviour Policy page on riskmandate.ai"
+    "caption": "The Agent Behaviour Policy page on riskmandate.ai",
+    "phone": "img/real/abp-phone.webp",
+    "phone_w": 760,
+    "phone_h": 500
    },
    {
     "file": "img/real/pricing.webp",
     "url": "https://riskmandate.ai/pricing.html",
-    "caption": "The four ways in, on riskmandate.ai's pricing page"
+    "caption": "The four ways in, on riskmandate.ai's pricing page",
+    "phone": "img/real/pricing-phone.webp",
+    "phone_w": 760,
+    "phone_h": 500
    },
    {
     "file": "img/real/examples.webp",
     "url": "https://riskmandate.ai/agent-behaviour-policy.html",
-    "caption": "The sixteen example Agent Behaviour Policies, on riskmandate.ai"
+    "caption": "The sixteen example Agent Behaviour Policies, on riskmandate.ai",
+    "phone": "img/real/examples-phone.webp",
+    "phone_w": 760,
+    "phone_h": 500
    }
   ]
  },
@@ -601,7 +619,8 @@
       "kind": "timeline"
      }
     ],
-    "sig": "This form shows the fields an ABP carries, drawn from riskmandate.ai. The example policies themselves are on the real site."
+    "sig": "This form shows the fields an ABP carries, drawn from riskmandate.ai. The example policies themselves are on the real site.",
+    "variant": "policyform"
    }
   },
   {
@@ -728,13 +747,22 @@
      15
     ],
     "sub": "\"An Agent Behaviour Policy describes one AI agent in one deployment: everything it can do (the grant), what you actually authorised (the mandate), the gap between the two (the delta), and what really stands in the way of each thing (the barrier).\"",
-    "hero": "shot",
+    "hero": "excerpt",
     "shot": 3,
     "strip_below": [
      1,
      2
     ],
-    "strip_title": "More of riskmandate.ai"
+    "strip_title": "More of riskmandate.ai",
+    "excerpt": {
+     "id": "Agent Behaviour Policy · anthropic/claude-code/local-default",
+     "title": "Claude Code on your machine, confirmations on.",
+     "q": "The common case: one CLI agent running as your user account, credentials in the home directory, confirmations on, no containment.",
+     "url": "https://riskmandate.ai/abp-vault-claude-code-cli.html",
+     "s": [
+      16
+     ]
+    }
    }
   },
   {
@@ -743,5 +771,56 @@
    "blurb": "A newsroom feature, printable on A4",
    "engine": "newsroom"
   }
- ]
+ ],
+ "oneline": {
+  "t": "The insurability layer for agentic AI.",
+  "s": [
+   10
+  ]
+ },
+ "band": {
+  "title": "Counted on its own team",
+  "nums": [
+   {
+    "n": "191",
+    "l": "behaviour policies written for its own agents and published on three sites",
+    "s": [
+     10
+    ],
+    "when": "as on riskmandate.ai, read 20 November 2026 (counted 16 November)"
+   },
+   {
+    "n": "2,262",
+    "l": "agent runs, each with a report against its ABP",
+    "s": [
+     10
+    ],
+    "when": "as on riskmandate.ai, read 20 November 2026 (runs 6 to 16 November)"
+   },
+   {
+    "n": "2,980",
+    "l": "actions logged as outside an agent's grant: seen, recorded, allowed",
+    "s": [
+     10
+    ],
+    "when": "as on riskmandate.ai, read 20 November 2026"
+   },
+   {
+    "n": "1",
+    "l": "rule that failed and became a barrier the agent cannot remove",
+    "s": [
+     10
+    ],
+    "when": "as on riskmandate.ai, read 20 November 2026 (2 to 6 November)"
+   }
+  ],
+  "quote": {
+   "q": "The common case: one CLI agent running as your user account, credentials in the home directory, confirmations on, no containment.",
+   "who": "From the example policy \"Claude Code on your machine, confirmations on\", one of the sixteen",
+   "s": [
+    16
+   ]
+  },
+  "people": true
+ }
 }
