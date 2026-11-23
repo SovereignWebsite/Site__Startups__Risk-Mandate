@@ -498,7 +498,11 @@
     "url": "https://riskmandate.ai/abp-vault-claude-code-cli.html",
     "caption": "One of the sixteen free example policies, \"Claude Code on your machine, confirmations on\", opened live from its vault on riskmandate.ai, read-only",
     "taken": "2026-11-23",
-    "phone_caption": "One of the sixteen free examples, opened live from its vault"
+    "phone_caption": "The counts of \"Claude Code on your machine, confirmations on\", one of the sixteen free example policies, read-only from its vault. Tap to open the whole policy",
+    "phone": "img/real/example-vault-phone.webp",
+    "phone_w": 548,
+    "phone_h": 342,
+    "phone_taken": "2026-11-23"
    }
   ]
  },
