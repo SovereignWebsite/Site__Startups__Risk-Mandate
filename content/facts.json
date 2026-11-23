@@ -492,6 +492,13 @@
     "phone": "img/real/examples-phone.webp",
     "phone_w": 760,
     "phone_h": 500
+   },
+   {
+    "file": "img/real/example-vault.webp",
+    "url": "https://riskmandate.ai/abp-vault-claude-code-cli.html",
+    "caption": "One of the sixteen free example policies, \"Claude Code on your machine, confirmations on\", opened live from its vault on riskmandate.ai, read-only",
+    "taken": "2026-11-23",
+    "phone_caption": "One of the sixteen free examples, opened live from its vault"
    }
   ]
  },
@@ -512,7 +519,9 @@
    "blurb": "Reach, mandate and the delta, drawn large",
    "engine": "gap",
    "cfg": {
-    "h1": "What it can reach. What you allowed. <em>The gap.</em>"
+    "h1": "What it can reach. What you allowed. <em>The gap.</em>",
+    "example_shot": 4,
+    "example_title": "One of the sixteen, the real thing"
    }
   },
   {
