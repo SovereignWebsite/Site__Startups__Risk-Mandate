@@ -279,7 +279,7 @@
    "s": [
     10
    ],
-   "when": "Published 10 November 2026"
+   "when": ""
   },
   {
    "value": "16",
@@ -288,7 +288,7 @@
    "s": [
     11
    ],
-   "when": "Published 19 November 2026"
+   "when": ""
   },
   {
    "value": "£500",
@@ -297,7 +297,7 @@
    "s": [
     17
    ],
-   "when": "Read 23 November 2026"
+   "when": ""
   }
  ],
  "chart": {
@@ -814,7 +814,7 @@
     "s": [
      10
     ],
-    "when": "Runs 6 to 16 November"
+    "when": "Counted 6 to 16 November"
    },
    {
     "n": "2,980",
@@ -830,7 +830,7 @@
     "s": [
      10
     ],
-    "when": "2 to 6 November"
+    "when": "Counted 2 to 6 November"
    }
   ],
   "quote": {
@@ -842,6 +842,6 @@
   },
   "people": true,
   "merge_figures": true,
-  "when_head": "As on riskmandate.ai, read 20 November 2026, unless marked."
+  "when_head": "As on riskmandate.ai, read 20 November 2026 (the £500 level on 23 November)."
  }
 }
