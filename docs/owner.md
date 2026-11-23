@@ -12,5 +12,5 @@ For the owner. Nothing on this site waits on you: it is live at https://risk-man
 
 ## Things you could add
 
-- **Approved.** You approved this brochure on 23 November 2026 (ask 14, "Look at the RiskMandate brochure", in decisions.b's session). Nothing here waits on you.
+- **Your review.** The brochure is on your list to look at (a review item, not a blocking decision: decisions record 2026-11-23__navigation-and-review). Nothing here waits on you; any change you want can go straight into `content/facts.json`.
 - **Any answer in `docs/questions.md`.** Each one, once answered with a source, becomes a fact on the site.
