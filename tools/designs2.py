@@ -660,11 +660,14 @@ h2{font:800 clamp(1.5rem,3.4vw,2.1rem)/1.15 ui-sans-serif,system-ui,sans-serif;m
 .chart .bt{height:1rem;background:var(--line);border-radius:4px;overflow:hidden}.chart .bb{display:block;height:100%;background:var(--acc)}.chart .bv{text-align:right;font-weight:700}
 .tl-list{padding-left:1.4rem}.tl-list time{font-weight:700;display:block}
 
-.gap .onfill{paint-order:stroke;stroke:#0d3b2a;stroke-width:6px;stroke-linejoin:round}.gap text.onfill{fill:#fff}"""
+.gap .onfill{paint-order:stroke;stroke:#0d3b2a;stroke-width:6px;stroke-linejoin:round}.gap text.onfill{fill:#fff}
+@media (max-width:40rem){.parts{gap:.6rem!important;margin:1.4rem 0!important}.part{padding:.7rem .9rem!important}.part b{margin-bottom:.1rem!important}}"""
     fb = facts_blocks(F, p, depth)
     how = F['how']
     cols = ['#8a8780', '#f7f6f2', '#1a7f5a', '#ffd166']
-    parts = ''.join(f'<div class="part" style="--c:{cols[i % 4]}"><b>{e(h["title"])}</b><span>{md(h["t"])}{B.cite(F, h.get("s"), p)}</span></div>' for i, h in enumerate(how))
+    parts = ''.join(f'<div class="part" style="--c:{cols[i % 4]}"><b>{e(h["title"])}</b>'
+                    + (f'<span class="desk-only">{md(h["t"])}</span><span class="phone-only">{md(h["t_short"])}</span>' if h.get('t_short') else f'<span>{md(h["t"])}</span>')
+                    + f'{B.cite(F, h.get("s"), p)}</div>' for i, h in enumerate(how))
     svg = ('<figure class="gap"><svg viewBox="0 0 640 540" role="img" aria-label="The gap: the grant is everything the agent can reach; inside it sits the mandate, what you authorised; '
            'the rest of the grant, hatched in green, is the delta; a barrier is drawn round the mandate.">'
            '<defs><pattern id="g-hatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="14" height="14" fill="#1a7f5a"/><rect width="5" height="14" fill="#22c55e"/></pattern></defs>'

@@ -114,28 +114,32 @@
    "t": "What you authorised the agent to do, drawn out of you.",
    "s": [
     2
-   ]
+   ],
+   "t_short": "What you authorised the agent to do."
   },
   {
    "title": "The grant",
    "t": "What the agent can actually reach, measured from the deployment.",
    "s": [
     2
-   ]
+   ],
+   "t_short": "What the agent can actually reach."
   },
   {
    "title": "The delta",
    "t": "The difference between the two, derived and never edited.",
    "s": [
     2
-   ]
+   ],
+   "t_short": "The difference between the two."
   },
   {
    "title": "The barrier",
    "t": "What stands in the way, per capability: none, an expectation, a setting or a boundary. Only a boundary counts as a control.",
    "s": [
     2
-   ]
+   ],
+   "t_short": "What stands in the way. Only a boundary counts as a control."
   }
  ],
  "products": [
