@@ -278,7 +278,8 @@
    "asof": "2026-11-10",
    "s": [
     10
-   ]
+   ],
+   "when": "Published 10 November 2026"
   },
   {
    "value": "16",
@@ -286,7 +287,8 @@
    "asof": "2026-11-19",
    "s": [
     11
-   ]
+   ],
+   "when": "Published 19 November 2026"
   },
   {
    "value": "£500",
@@ -295,7 +297,7 @@
    "s": [
     17
    ],
-   "when": "as on riskmandate.ai, read 23 November 2026"
+   "when": "Read 23 November 2026"
   }
  ],
  "chart": {
@@ -804,7 +806,7 @@
     "s": [
      10
     ],
-    "when": "as on riskmandate.ai, read 20 November 2026 (counted 16 November)"
+    "when": "Counted 16 November"
    },
    {
     "n": "2,262",
@@ -812,7 +814,7 @@
     "s": [
      10
     ],
-    "when": "as on riskmandate.ai, read 20 November 2026 (runs 6 to 16 November)"
+    "when": "Runs 6 to 16 November"
    },
    {
     "n": "2,980",
@@ -820,7 +822,7 @@
     "s": [
      10
     ],
-    "when": "as on riskmandate.ai, read 20 November 2026"
+    "when": ""
    },
    {
     "n": "1",
@@ -828,7 +830,7 @@
     "s": [
      10
     ],
-    "when": "as on riskmandate.ai, read 20 November 2026 (2 to 6 November)"
+    "when": "2 to 6 November"
    }
   ],
   "quote": {
@@ -839,6 +841,7 @@
    ]
   },
   "people": true,
-  "merge_figures": true
+  "merge_figures": true,
+  "when_head": "As on riskmandate.ai, read 20 November 2026, unless marked."
  }
 }
