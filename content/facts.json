@@ -290,7 +290,8 @@
    "asof": "2026-11-23",
    "s": [
     17
-   ]
+   ],
+   "when": "as on riskmandate.ai, read 23 November 2026"
   }
  ],
  "chart": {
@@ -791,7 +792,7 @@
   ]
  },
  "band": {
-  "title": "Counted on its own team",
+  "title": "Its own numbers, as it publishes them",
   "nums": [
    {
     "n": "191",
@@ -833,6 +834,7 @@
     16
    ]
   },
-  "people": true
+  "people": true,
+  "merge_figures": true
  }
 }
